@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:general  ",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:\"vulnerbility discovery\"  ",
+      "query": "path:vulnerbility  ",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224455,
-  "close": false
+  "scale": 0.508761885579262,
+  "close": true
 }

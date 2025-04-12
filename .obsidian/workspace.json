@@ -11,10 +11,38 @@
             "id": "0508517e6e4196da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
+                "page": 8,
+                "left": -22,
+                "top": 61,
+                "zoom": 0.70546875
+              },
+              "icon": "lucide-file-text",
+              "title": "07_Penetration Testing Practice_弱點利用平台_v1.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4763586b1635ab0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f6e88509b4cb52",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+                "page": 3,
+                "left": -22,
+                "top": 225,
+                "zoom": 0.70546875
+              },
+              "icon": "lucide-file-text",
+              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0"
             }
           }
         ]
@@ -116,11 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0 的對外連結"
             }
           },
           {
@@ -144,12 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0 的大綱"
             }
           },
           {
@@ -183,8 +213,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0508517e6e4196da",
+  "active": "67f6e88509b4cb52",
   "lastOpenFiles": [
+    "vulnerbility/exploit/Buffer Overflow.md",
+    "vulnerbility/exploit",
+    "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
+    "vulnerbility/資安弱點.md",
+    "Information Gathering/Network Information/掃描技術.md",
+    "tool/scan/常見弱點掃描工具.md",
     "confidentiality/cryptography/密碼學目的與核心概念.md",
     "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "confidentiality/password/通行碼破解.md",
@@ -205,7 +241,6 @@
     "vulnerbility/discovery",
     "confidentiality/cryptography",
     "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-    "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
     "tool/Hydra.md",
     "tool/John The Ripper.md",
@@ -213,13 +248,8 @@
     "tool/OSINT Tool.md",
     "confidentiality/password/生物特徵認證.md",
     "confidentiality/password/使用者認證.md",
-    "confidentiality/password/系統通行碼管理與驗證流程.md",
-    "vulnerbility/弱點運作／利用.md",
-    "confidentiality/password/傳統通行碼認證.md",
-    "confidentiality/password/Token認證.md",
     "confidentiality/password",
     "confidentiality",
-    "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
     "總整理.canvas",
     "未命名.canvas",
     "img/Pasted image 20250411143448.png",
