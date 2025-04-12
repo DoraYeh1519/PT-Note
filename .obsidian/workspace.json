@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
-                "page": 61,
+                "page": 60,
                 "left": -22,
-                "top": 362,
+                "top": 36,
                 "zoom": 0.70546875
               },
               "icon": "lucide-file-text",
@@ -30,49 +30,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51718f5f83ca6023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "confidentiality/password/通行碼破解.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "通行碼破解"
-            }
-          },
-          {
-            "id": "22860acc7680ced0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "confidentiality/password/生物特徵認證.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "生物特徵認證"
-            }
-          },
-          {
             "id": "06dfd26e7db25f0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tool/未命名.md",
+                "file": "tool/John The Ripper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "John The Ripper"
+            }
+          },
+          {
+            "id": "00012f7bc07fe051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tips/IPFS 惡意郵件威脅趨勢與案例分析筆記.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPFS 惡意郵件威脅趨勢與案例分析筆記"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "VirusTotal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tool/未命名.md",
+                "file": "tips/IPFS 惡意郵件威脅趨勢與案例分析筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的對外連結"
+              "title": "IPFS 惡意郵件威脅趨勢與案例分析筆記 的對外連結"
             }
           },
           {
@@ -200,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tool/未命名.md",
+                "file": "tips/IPFS 惡意郵件威脅趨勢與案例分析筆記.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大綱"
+              "title": "IPFS 惡意郵件威脅趨勢與案例分析筆記 的大綱"
             }
           },
           {
@@ -240,13 +226,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06dfd26e7db25f0f",
+  "active": "dde3691e121b4546",
   "lastOpenFiles": [
+    "tool/John The Ripper.md",
+    "tips/IPFS 惡意郵件威脅趨勢與案例分析筆記.md",
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
-    "tool/未命名.md",
     "confidentiality/password/通行碼破解.md",
-    "confidentiality/password/使用者認證.md",
     "confidentiality/password/生物特徵認證.md",
+    "confidentiality/password/使用者認證.md",
     "confidentiality/password/系統通行碼管理與驗證流程.md",
     "vulnerbility discovery/弱點運作／利用.md",
     "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
@@ -272,7 +259,6 @@
     "vulnerbility discovery/自動化弱點掃描.md",
     "tool/弱點資料庫與弱點公告來源一覽表.md",
     "tool/CVSS Score Calculator.md",
-    "tips/零時差攻擊.md",
     "vulnerbility discovery",
     "Information Gathering/Enumeration",
     "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
