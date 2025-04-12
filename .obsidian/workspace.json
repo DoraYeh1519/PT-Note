@@ -16,7 +16,7 @@
                 "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
                 "page": 5,
                 "left": -22,
-                "top": 231,
+                "top": 235,
                 "zoom": 0.70546875
               },
               "icon": "lucide-file-text",
@@ -170,17 +170,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "confidentiality/password/系統通行碼.md",
+                "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "系統通行碼 的大綱"
+              "title": "05_Penetration Testing Practice_系統通行碼_v1.0 的大綱"
+            }
+          },
+          {
+            "id": "e53703223a9c1563",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d9f87b0606cd8e7",
+  "active": "e53703223a9c1563",
   "lastOpenFiles": [
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
     "confidentiality/password/系統通行碼.md",
