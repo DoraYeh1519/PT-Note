@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e7e0edb6823e26de",
+        "id": "b79c31ee35f318c9",
         "type": "tabs",
         "children": [
           {
-            "id": "bfaa6fc6f2f429ba",
+            "id": "8d9f87b0606cd8e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 488,
+                "zoom": 1.4515625
+              },
+              "icon": "lucide-file-text",
+              "title": "05_Penetration Testing Practice_系統通行碼_v1.0"
             }
           }
         ]
@@ -144,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "未命名 的大綱"
             }
           }
         ],
@@ -173,8 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad3285ef1295c306",
+  "active": "0b4d8a5e27837716",
   "lastOpenFiles": [
+    "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
+    "未命名.md",
+    "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
+    "general/滲透測試類型.md",
     "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
     "tool/scan/常見弱點掃描工具.md",
     "vulnerbility discovery/資安弱點.md",
@@ -201,12 +212,9 @@
     "tool/Google Hacking.md",
     "tool/Wayback Machine.md",
     "tool/OSINT Tool.md",
-    "Information Gathering/Enumeration/Enumeration.md",
-    "tool/DNS/DNSenum.md",
     "Information Gathering/Enumeration",
     "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
     "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
-    "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
     "tool/scan",
     "Information Gathering/Network Information",
     "總整理.canvas",
