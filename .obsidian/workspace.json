@@ -151,19 +151,9 @@
               "icon": "lucide-list",
               "title": "大綱"
             }
-          },
-          {
-            "id": "c81908de90e11e76",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c81908de90e11e76",
+  "active": "ad3285ef1295c306",
   "lastOpenFiles": [
     "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
     "tool/scan/常見弱點掃描工具.md",
