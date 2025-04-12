@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 16498175
       }
+    },
+    {
+      "query": "path:confidentiality/password  ",
+      "color": {
+        "a": 1,
+        "rgb": 870
+      }
+    },
+    {
+      "query": "path:confidentiality/cryptography  ",
+      "color": {
+        "a": 1,
+        "rgb": 3904022
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224446,
-  "close": true
+  "scale": 0.7132754626224455,
+  "close": false
 }
