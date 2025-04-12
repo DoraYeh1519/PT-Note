@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
-                "page": 66,
+                "page": 70,
                 "left": -22,
-                "top": 176,
+                "top": 207,
                 "zoom": 0.70546875
               },
               "icon": "lucide-file-text",
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "非對稱式加密.md",
+                "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "非對稱式加密 的對外連結"
+              "title": "06_Penetration Testing Practice_密碼學與密碼分析_v1.0 的對外連結"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "非對稱式加密.md",
+                "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "非對稱式加密 的大綱"
+              "title": "06_Penetration Testing Practice_密碼學與密碼分析_v1.0 的大綱"
             }
           },
           {
@@ -242,10 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0508517e6e4196da",
+  "active": "4bef6471335d78c9",
   "lastOpenFiles": [
-    "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "非對稱式加密.md",
+    "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
+    "06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdfpage=70.md",
     "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
     "confidentiality/cryptography/對稱式加密.md",
     "confidentiality/cryptography/區塊加密.md",
@@ -275,7 +276,6 @@
     "confidentiality/password/Token認證.md",
     "tips/通行碼小常識.md",
     "tool/常見 Hash 演算法對照表.md",
-    "confidentiality/password/通行碼管理.md",
     "confidentiality/password",
     "confidentiality",
     "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
