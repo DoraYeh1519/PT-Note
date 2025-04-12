@@ -1,0 +1,3 @@
+- ExifTool
+- FOCA
+- Metadata Extraction Tool (NLNZ)

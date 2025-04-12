@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "49789222318efda1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e0edb6823e26de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfaa6fc6f2f429ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15751c7fd8768e18",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2181e3de6bdf169",
+        "type": "tabs",
+        "dimension": 60.14814814814816,
+        "children": [
+          {
+            "id": "0b4d8a5e27837716",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          }
+        ]
+      },
+      {
+        "id": "26383b808dede2dc",
+        "type": "tabs",
+        "dimension": 39.85185185185185,
+        "children": [
+          {
+            "id": "dde3691e121b4546",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "9fb2a367d84ff382",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "53bd3ada76d615ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4b51b99702c6d57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc50cfa1d8d14a7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "6c09a1492d34f279",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "986b4b85ed7ccc66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "ad3285ef1295c306",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          },
+          {
+            "id": "c81908de90e11e76",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c81908de90e11e76",
+  "lastOpenFiles": [
+    "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
+    "tool/scan/常見弱點掃描工具.md",
+    "vulnerbility discovery/資安弱點.md",
+    "vulnerbility discovery/弱點相關標準.md",
+    "vulnerbility discovery/弱點修補.md",
+    "tool/Whois.md",
+    "tool/scan/Nessus.md",
+    "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
+    "tool/scan/hping／hping3.md",
+    "Information Gathering/Network Information/掃描技術.md",
+    "general/滲透測試流程.md",
+    "vulnerbility discovery/自動化弱點掃描.md",
+    "vulnerbility discovery/弱點運作／利用.md",
+    "tool/弱點資料庫與弱點公告來源一覽表.md",
+    "tool/CVSS Score Calculator.md",
+    "tips/零時差攻擊.md",
+    "vulnerbility discovery/弱點形成四階段.md",
+    "vulnerbility discovery/弱點評估.md",
+    "vulnerbility discovery",
+    "Information Gathering/資訊蒐集.md",
+    "tips/common TCP ports.md",
+    "Information Gathering/外部偵蒐目標.md",
+    "tool/scan/snmpwalk.md",
+    "tool/Google Hacking.md",
+    "tool/Wayback Machine.md",
+    "tool/OSINT Tool.md",
+    "Information Gathering/Enumeration/Enumeration.md",
+    "tool/DNS/DNSenum.md",
+    "Information Gathering/Enumeration",
+    "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
+    "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
+    "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
+    "tool/scan",
+    "Information Gathering/Network Information",
+    "總整理.canvas",
+    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+    "未命名.canvas",
+    "img/Pasted image 20250411143448.png",
+    "img/Pasted image 20250411143350.png",
+    "img/Pasted image 20250411143213.png"
+  ]
+}

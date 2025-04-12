@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"9d91fbd08d936358","x":1100,"y":-340,"width":2860,"height":1170,"color":"2","type":"group","label":"Ch2. 資訊蒐集"},
+		{"id":"18afaab80d1d374f","type":"group","x":-800,"y":-340,"width":1780,"height":980,"color":"1","label":"Ch1. 滲透測試簡介"},
+		{"id":"1043b08f763a4033","type":"file","file":"general/滲透測試目的.md","x":-780,"y":-320,"width":400,"height":440},
+		{"id":"37a8a00f4d213029","type":"file","file":"general/滲透測試範圍.md","x":-780,"y":150,"width":400,"height":470},
+		{"id":"a158692b0a8f2072","type":"file","file":"general/滲透測試類型.md","x":320,"y":-320,"width":640,"height":940},
+		{"id":"b36c4d9fa0d2a249","type":"file","file":"general/滲透測試流程.md","x":-360,"y":-320,"width":660,"height":940},
+		{"id":"b7f6b14690a4ae52","type":"file","file":"Information Gathering/外部偵蒐目標.md","x":1120,"y":-320,"width":560,"height":1130},
+		{"id":"df4fa9a4fe6f8f27","type":"file","file":"Information Gathering/資訊蒐集.md","x":1700,"y":-320,"width":760,"height":1130},
+		{"id":"8a40ae53ad3e8650","type":"file","file":"Information Gathering/OSINT.md","x":2480,"y":-320,"width":660,"height":1130},
+		{"id":"f18c78d5c1bb3199","type":"file","file":"Information Gathering/DNS Lookup.md","x":3160,"y":-320,"width":400,"height":460},
+		{"id":"17499dc2182a834d","type":"text","text":"## Tips\n1. [[個人機敏資訊洩漏]]\n2. [[Google Hacking 目標]]\n## Tools\n1. [[OSINT Tool]]\n2. [[Metadata Tool]]\n3. [[ASN]]\n4. [[Nmap]]\n5. [[Whois]]\n6. [[Wayback Machine]]\n7. [[Google Hacking]]","x":3580,"y":-320,"width":360,"height":460},
+		{"id":"f025ddcb3cbe783c","type":"file","file":"Information Gathering/DNS Zone Transfer.md","x":3160,"y":160,"width":780,"height":650}
+	],
+	"edges":[]
+}
