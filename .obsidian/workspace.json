@@ -4,6 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "5597ebf37eabfbaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51718f5f83ca6023",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
+                "page": 5,
+                "left": -22,
+                "top": 231,
+                "zoom": 0.70546875
+              },
+              "icon": "lucide-file-text",
+              "title": "05_Penetration Testing Practice_系統通行碼_v1.0"
+            }
+          }
+        ]
+      },
+      {
         "id": "b79c31ee35f318c9",
         "type": "tabs",
         "children": [
