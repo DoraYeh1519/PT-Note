@@ -60,16 +60,18 @@
 
 ### 🔗 OSINT 資源平台（文件中整理）
 
-|資源名稱|連結|
-|---|---|
-|VirusTotal|[https://www.virustotal.com/](https://www.virustotal.com/)|
-|Talos Intelligence (Cisco)|[https://talosintelligence.com/](https://talosintelligence.com/)|
-|AlienVault OTX|[https://otx.alienvault.com/](https://otx.alienvault.com/)|
-|Spamhaus|[https://www.spamhaus.org/](https://www.spamhaus.org/)|
-|Feodo Tracker|[https://feodotracker.abuse.ch/](https://feodotracker.abuse.ch/)|
-|URLhaus|[https://urlhaus.abuse.ch/](https://urlhaus.abuse.ch/)|
-|MISP 情報平台|[https://www.misp-project.org/](https://www.misp-project.org/)|
-|Zone-H（網站入侵通報）|[http://www.zone-h.org/archive](http://www.zone-h.org/archive)|
+| 資源名稱                       | 連結                                                               |
+| -------------------------- | ---------------------------------------------------------------- |
+| VirusTotal                 | [https://www.virustotal.com/](https://www.virustotal.com/)       |
+| Talos Intelligence (Cisco) | [https://talosintelligence.com/](https://talosintelligence.com/) |
+| AlienVault OTX             | [https://otx.alienvault.com/](https://otx.alienvault.com/)       |
+| Spamhaus                   | [https://www.spamhaus.org/](https://www.spamhaus.org/)           |
+| Feodo Tracker              | [https://feodotracker.abuse.ch/](https://feodotracker.abuse.ch/) |
+| URLhaus                    | [https://urlhaus.abuse.ch/](https://urlhaus.abuse.ch/)           |
+| MISP 情報平台                  | [https://www.misp-project.org/](https://www.misp-project.org/)   |
+| Zone-H（網站入侵通報）             | [http://www.zone-h.org/archive](http://www.zone-h.org/archive)   |
+
+^ecfcee
 
 ---
 

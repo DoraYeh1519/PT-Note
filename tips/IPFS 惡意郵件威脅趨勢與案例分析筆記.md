@@ -59,4 +59,4 @@
         
 4. **使用 IPFS 分流分析平台**
     
-    - 部分資安廠商如 [[OSINT Tool^|VirusTotal]]、ANY.RUN 已支援對 IPFS CID 的分析
+    - 部分資安廠商如 [[OSINT Tool#^ecfcee|VirusTotal]]、ANY.RUN 已支援對 IPFS CID 的分析

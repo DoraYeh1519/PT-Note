@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
-                "page": 60,
+                "page": 64,
                 "left": -22,
-                "top": 36,
+                "top": 66,
                 "zoom": 0.70546875
               },
               "icon": "lucide-file-text",
@@ -57,8 +57,7 @@
               "title": "IPFS 惡意郵件威脅趨勢與案例分析筆記"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tips/IPFS 惡意郵件威脅趨勢與案例分析筆記.md",
+                "file": "tool/John The Ripper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "IPFS 惡意郵件威脅趨勢與案例分析筆記 的對外連結"
+              "title": "John The Ripper 的對外連結"
             }
           },
           {
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tips/IPFS 惡意郵件威脅趨勢與案例分析筆記.md",
+                "file": "tool/John The Ripper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IPFS 惡意郵件威脅趨勢與案例分析筆記 的大綱"
+              "title": "John The Ripper 的大綱"
             }
           },
           {
@@ -226,11 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dde3691e121b4546",
+  "active": "06dfd26e7db25f0f",
   "lastOpenFiles": [
+    "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
     "tool/John The Ripper.md",
     "tips/IPFS 惡意郵件威脅趨勢與案例分析筆記.md",
-    "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
+    "tool/OSINT Tool.md",
     "confidentiality/password/通行碼破解.md",
     "confidentiality/password/生物特徵認證.md",
     "confidentiality/password/使用者認證.md",
@@ -258,7 +258,6 @@
     "general/滲透測試流程.md",
     "vulnerbility discovery/自動化弱點掃描.md",
     "tool/弱點資料庫與弱點公告來源一覽表.md",
-    "tool/CVSS Score Calculator.md",
     "vulnerbility discovery",
     "Information Gathering/Enumeration",
     "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
