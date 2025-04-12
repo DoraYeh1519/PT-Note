@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
-                "page": 8,
+                "page": 9,
                 "left": -22,
-                "top": 61,
+                "top": 69,
                 "zoom": 0.70546875
               },
               "icon": "lucide-file-text",
@@ -26,23 +26,21 @@
         ]
       },
       {
-        "id": "4763586b1635ab0e",
+        "id": "0bec4f5d88f1df59",
         "type": "tabs",
         "children": [
           {
-            "id": "67f6e88509b4cb52",
+            "id": "725f61ca822d1674",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-                "page": 3,
-                "left": -22,
-                "top": 225,
-                "zoom": 0.70546875
+                "file": "vulnerbility/exploit/Buffer Overflow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0"
+              "icon": "lucide-file",
+              "title": "Buffer Overflow"
             }
           }
         ]
@@ -144,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+                "file": "vulnerbility/exploit/Buffer Overflow.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0 的對外連結"
+              "title": "Buffer Overflow 的對外連結"
             }
           },
           {
@@ -173,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+                "file": "vulnerbility/exploit/Buffer Overflow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0 的大綱"
+              "title": "Buffer Overflow 的大綱"
             }
           },
           {
@@ -213,11 +211,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67f6e88509b4cb52",
+  "active": "725f61ca822d1674",
   "lastOpenFiles": [
-    "vulnerbility/exploit/Buffer Overflow.md",
-    "vulnerbility/exploit",
     "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
+    "vulnerbility/exploit/Buffer Overflow.md",
+    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+    "vulnerbility/exploit",
     "vulnerbility/資安弱點.md",
     "Information Gathering/Network Information/掃描技術.md",
     "tool/scan/常見弱點掃描工具.md",
@@ -240,7 +239,6 @@
     "vulnerbility/弱點相關標準.md",
     "vulnerbility/discovery",
     "confidentiality/cryptography",
-    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
     "tool/Hydra.md",
     "tool/John The Ripper.md",
