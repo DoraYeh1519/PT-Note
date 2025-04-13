@@ -11,10 +11,14 @@
             "id": "20facb005419ba54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "Windows 安全性與防護繞過"
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "Windows 安全性與防護繞過 的反向連結"
             }
           },
           {
@@ -172,12 +177,11 @@
               "title": "Copilot Chat"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +197,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d6506472d7cbb5f",
+  "active": "20facb005419ba54",
   "lastOpenFiles": [
+    "vulnerbility/exploit/windows based/The Security Account Manager (SAM) Files.md",
+    "vulnerbility/exploit/windows based/Powershell Exploit.md",
+    "vulnerbility/exploit/windows based/Windows 系統資訊與帳號列舉.md",
+    "vulnerbility/exploit/windows based/Windows 登錄檔與檔案分析.md",
+    "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
+    "tool/scan/常見弱點掃描工具.md",
+    "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
+    "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
+    "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
+    "general/滲透測試目的.md",
     "vulnerbility/exploit/windows based/防禦繞過技術.md",
     "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "tool/TCPView.md",
@@ -204,14 +218,9 @@
     "tool/Windows 事件檢視器.md",
     "tips/Windows重要事件識別碼.md",
     "tool/常見 PowerShell 攻擊模組與框架.md",
-    "vulnerbility/exploit/windows based/Powershell Exploit.md",
     "vulnerbility/exploit/windows based/權限提升技術（Privilege Escalation）.md",
     "vulnerbility/exploit/windows based/Hacking Windows.md",
-    "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
-    "vulnerbility/exploit/windows based/Windows 系統資訊與帳號列舉.md",
     "vulnerbility/exploit/windows based/網域與服務列舉.md",
-    "vulnerbility/exploit/windows based/Windows 登錄檔與檔案分析.md",
-    "vulnerbility/exploit/windows based/The Security Account Manager (SAM) Files.md",
     "vulnerbility/exploit/windows based/Registry File.md",
     "SAM file.md",
     "vulnerbility/exploit/windows based",
@@ -223,13 +232,9 @@
     "vulnerbility/exploit",
     "vulnerbility/資安弱點.md",
     "Information Gathering/Network Information/掃描技術.md",
-    "tool/scan/常見弱點掃描工具.md",
     "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
     "vulnerbility/discovery",
-    "confidentiality/cryptography",
-    "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
-    "confidentiality/password",
     "總整理.canvas",
     "未命名.canvas",
     "img/Pasted image 20250411143448.png",
