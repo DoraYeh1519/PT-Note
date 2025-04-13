@@ -53,14 +53,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdfs/tip.pdf",
-                "page": 1,
-                "left": -14,
-                "top": 842,
-                "zoom": 1.1867566823429974
+                "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
+                "page": 68,
+                "left": -22,
+                "top": 114,
+                "zoom": 0.7359375
               },
               "icon": "lucide-file-text",
-              "title": "tip"
+              "title": "06_Penetration Testing Practice_密碼學與密碼分析_v1.0"
             }
           }
         ],
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/tip.pdf",
+                "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "tip 的反向連結"
+              "title": "06_Penetration Testing Practice_密碼學與密碼分析_v1.0 的反向連結"
             }
           },
           {
@@ -272,8 +272,8 @@
   },
   "active": "742cd8364ab64680",
   "lastOpenFiles": [
-    "general/reporting/測試報告內容.md",
     "pdfs/tip.pdf",
+    "general/reporting/測試報告內容.md",
     "general/滲透測試目的.md",
     "general/滲透測試流程.md",
     "general/滲透測試範圍.md",
@@ -304,7 +304,6 @@
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
     "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
-    "confidentiality/cryptography/現代密碼學.md",
     "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
     "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
     "vulnerbility/exploit/windows based",
