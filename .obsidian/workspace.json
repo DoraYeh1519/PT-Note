@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61eecbebc067f9ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Information Gathering/Network Information/OS Fingerprint.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "OS Fingerprint"
-            }
-          },
-          {
             "id": "a38713193e358112",
             "type": "leaf",
             "state": {
@@ -64,23 +40,23 @@
             }
           },
           {
-            "id": "1592860c737a7482",
+            "id": "f97d4d5eb1851be6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
-                "page": 22,
+                "file": "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
+                "page": 37,
                 "left": -22,
-                "top": 147,
+                "top": 305,
                 "zoom": 0.7359375
               },
               "icon": "lucide-file-text",
-              "title": "05_Penetration Testing Practice_系統通行碼_v1.0"
+              "title": "04_Penetration Testing Practice_自動化弱點發現技術_v1.0"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "eeb29e131586bdf5",
@@ -224,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
+                "file": "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "05_Penetration Testing Practice_系統通行碼_v1.0 的反向連結"
+              "title": "04_Penetration Testing Practice_自動化弱點發現技術_v1.0 的反向連結"
             }
           },
           {
@@ -300,14 +276,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1592860c737a7482",
+  "active": "f97d4d5eb1851be6",
   "lastOpenFiles": [
-    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+    "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
+    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "tool/常見 Hash 演算法對照表.md",
     "tool/常見 PowerShell 攻擊模組與框架.md",
     "confidentiality/cryptography/串流加密.md",
-    "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "tips/Windows重要事件識別碼.md",
     "confidentiality/cryptography/現代密碼學.md",
     "tool/scan/Nmap.md",
