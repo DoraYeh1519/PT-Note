@@ -6,6 +6,7 @@
       {
         "id": "572258aac25f12e2",
         "type": "tabs",
+        "dimension": 56.91823899371069,
         "children": [
           {
             "id": "0508517e6e4196da",
@@ -14,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-                "page": 31,
-                "left": -22,
-                "top": 61,
-                "zoom": 0.70546875
+                "page": 39,
+                "left": -19,
+                "top": 430,
+                "zoom": 0.80859375
               },
               "icon": "lucide-file-text",
               "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0"
@@ -28,6 +29,7 @@
       {
         "id": "281b44e84b773923",
         "type": "tabs",
+        "dimension": 43.08176100628931,
         "children": [
           {
             "id": "17d99ca10e74f12b",
@@ -49,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vulnerbility/exploit/windows based/權限提升技術（Privilege Escalation）.md",
+                "file": "vulnerbility/exploit/windows based/Powershell Exploit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "權限提升技術（Privilege Escalation）"
+              "title": "Powershell Exploit"
             }
           },
           {
@@ -72,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,11 +244,12 @@
   },
   "active": "0508517e6e4196da",
   "lastOpenFiles": [
-    "vulnerbility/exploit/windows based/Hacking Windows.md",
-    "防禦繞過技術.md",
+    "vulnerbility/exploit/windows based/Powershell Exploit.md",
     "vulnerbility/exploit/windows based/權限提升技術（Privilege Escalation）.md",
     "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+    "vulnerbility/exploit/windows based/Hacking Windows.md",
     "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
+    "防禦繞過技術.md",
     "vulnerbility/exploit/windows based/Windows 系統資訊與帳號列舉.md",
     "vulnerbility/exploit/windows based/網域與服務列舉.md",
     "vulnerbility/exploit/windows based/Windows 登錄檔與檔案分析.md",
@@ -273,7 +276,6 @@
     "06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdfpage=70.md",
     "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
     "confidentiality/cryptography/對稱式加密.md",
-    "confidentiality/cryptography/區塊加密.md",
     "vulnerbility/discovery",
     "confidentiality/cryptography",
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
