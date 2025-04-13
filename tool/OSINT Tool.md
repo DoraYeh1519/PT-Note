@@ -54,7 +54,7 @@
 
 - **OSINT Framework**：[https://osintframework.com/](https://osintframework.com/)
     
-- **OWASP Maryam**：模組化 OSINT 工具（[https://owasp.org/www-project-maryam/]()）
+- **OWASP Maryam**：模組化 OSINT 工具（[https://owasp.org/www-project-maryam/](https://owasp.org/www-project-maryam/)）
     
 - **Recon-ng、The Harvester、MetaGooFil**
 

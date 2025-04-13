@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tool/scan/Nmap.md",
+                "file": "Information Gathering/Network Information/OS Fingerprint.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Nmap"
+              "title": "OS Fingerprint"
             }
           },
           {
@@ -41,19 +51,18 @@
             "id": "742cd8364ab64680",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-                "page": 30,
-                "left": -22,
-                "top": 347,
-                "zoom": 0.7359375
+                "file": "Information Gathering/OSINT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0"
+              "icon": "lucide-file",
+              "title": "OSINT"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "eeb29e131586bdf5",
@@ -183,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tool/scan/Nmap.md",
+                "file": "Information Gathering/OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Nmap 的反向連結"
+              "title": "OSINT 的反向連結"
             }
           },
           {
@@ -259,12 +268,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61eecbebc067f9ac",
+  "active": "742cd8364ab64680",
   "lastOpenFiles": [
+    "Information Gathering/DNS Zone Transfer.md",
+    "Information Gathering/DNS Lookup.md",
+    "Information Gathering/ASN.md",
+    "Information Gathering/資訊蒐集.md",
+    "Information Gathering/Network Information/掃描技術.md",
+    "tips/個人機敏資訊洩漏.md",
+    "Information Gathering/外部偵蒐目標.md",
+    "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
+    "vulnerbility/discovery/自動化弱點掃描.md",
+    "Information Gathering/Network Information/OS Fingerprint.md",
+    "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
+    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+    "tool/Process Explorer.md",
+    "tool/TCPView.md",
+    "tool/OSINT Tool.md",
+    "().md",
+    "tool/Metadata Tool.md",
+    "tool/DNS/nslookup.md",
+    "tool/DNS/dnswalk.md",
+    "tool/scan/常見弱點掃描工具.md",
+    "tool/Google Hacking.md",
+    "tool/scan/Nmap.md",
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
     "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
-    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "confidentiality/cryptography/現代密碼學.md",
     "confidentiality/cryptography/密碼學目的與核心概念.md",
     "confidentiality/cryptography/密碼學分類.md",
@@ -272,27 +302,7 @@
     "tips/零時差攻擊.md",
     "tips/Windows重要事件識別碼.md",
     "tips/TCP連線狀態一覽.md",
-    "tips/IPFS 惡意郵件威脅趨勢與案例分析筆記.md",
-    "tips/Google Hacking 目標.md",
-    "tips/Feistel Network.md",
-    "tips/個人機敏資訊洩漏.md",
-    "tips/常見資訊洩漏類型.md",
-    "tips/通行碼小常識.md",
-    "tips/弱點驗證.md",
-    "confidentiality/cryptography/雜湊函式.md",
-    "confidentiality/cryptography/數位簽章.md",
-    "vulnerbility/弱點運作／利用.md",
-    "vulnerbility/弱點相關標準.md",
-    "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
-    "confidentiality/cryptography/古典密碼學.md",
-    "confidentiality/password/Token認證.md",
-    "confidentiality/password/傳統通行碼認證.md",
-    "confidentiality/password/通行碼破解.md",
-    "confidentiality/password/使用者認證.md",
-    "confidentiality/password/系統通行碼管理與驗證流程.md",
-    "confidentiality/password/生物特徵認證.md",
     "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
-    "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
     "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
     "vulnerbility/exploit/windows based",
     "vulnerbility/exploit",
