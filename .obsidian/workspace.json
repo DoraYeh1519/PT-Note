@@ -14,16 +14,33 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
-                "page": 31,
+                "page": 68,
                 "left": -22,
-                "top": 81,
+                "top": 60,
                 "zoom": 0.7359375
               },
               "icon": "lucide-file-text",
               "title": "06_Penetration Testing Practice_密碼學與密碼分析_v1.0"
             }
+          },
+          {
+            "id": "a38713193e358112",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
+                "page": 7,
+                "left": -22,
+                "top": 166,
+                "zoom": 0.7359375
+              },
+              "icon": "lucide-file-text",
+              "title": "07_Penetration Testing Practice_弱點利用平台_v1.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eeb29e131586bdf5",
@@ -217,20 +234,20 @@
   },
   "active": "742cd8364ab64680",
   "lastOpenFiles": [
+    "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
     "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
+    "vulnerbility/弱點相關標準.md",
     "confidentiality/cryptography/密碼學目的與核心概念.md",
     "confidentiality/cryptography/密碼學分類.md",
     "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
     "tips/通行碼小常識.md",
     "confidentiality/cryptography/古典密碼學.md",
-    "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
     "confidentiality/password/Token認證.md",
     "confidentiality/password/傳統通行碼認證.md",
     "confidentiality/password/通行碼破解.md",
     "confidentiality/password/使用者認證.md",
     "confidentiality/password/系統通行碼管理與驗證流程.md",
     "confidentiality/password/生物特徵認證.md",
-    "vulnerbility/弱點相關標準.md",
     "tips/DNS RR type.md",
     "Information Gathering/DNS Zone Transfer.md",
     "vulnerbility/弱點運作／利用.md",
