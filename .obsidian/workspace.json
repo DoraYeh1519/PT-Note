@@ -56,19 +56,19 @@
             }
           },
           {
-            "id": "9023d7d6a233b76f",
+            "id": "792cebf956931615",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
-                "page": 26,
-                "left": -20,
-                "top": 388,
+                "file": "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
+                "page": 95,
+                "left": -22,
+                "top": 108,
                 "zoom": 0.7359375
               },
               "icon": "lucide-file-text",
-              "title": "03_Penetration Testing Practice_網路資訊蒐集_v1.0"
+              "title": "02_Penetration Testing Practice_資訊蒐集技巧_v1.0"
             }
           }
         ],
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
+                "file": "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "03_Penetration Testing Practice_網路資訊蒐集_v1.0 的反向連結"
+              "title": "02_Penetration Testing Practice_資訊蒐集技巧_v1.0 的反向連結"
             }
           },
           {
@@ -278,8 +278,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9023d7d6a233b76f",
+  "active": "792cebf956931615",
   "lastOpenFiles": [
+    "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
+    "Information Gathering/DNS Lookup.md",
     "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
     "vulnerbility/弱點修補.md",
     "confidentiality/cryptography/串流加密.md",
@@ -299,7 +301,6 @@
     "general/滲透測試類型.md",
     "Information Gathering/OSINT.md",
     "Information Gathering/DNS Zone Transfer.md",
-    "Information Gathering/DNS Lookup.md",
     "Information Gathering/ASN.md",
     "Information Gathering/資訊蒐集.md",
     "Information Gathering/Network Information/掃描技術.md",
@@ -307,7 +308,6 @@
     "Information Gathering/外部偵蒐目標.md",
     "vulnerbility/discovery/自動化弱點掃描.md",
     "Information Gathering/Network Information/OS Fingerprint.md",
-    "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
     "tool/Process Explorer.md",
     "tool/TCPView.md",
     "tool/OSINT Tool.md",
