@@ -51,14 +51,16 @@
             "id": "742cd8364ab64680",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Information Gathering/OSINT.md",
-                "mode": "source",
-                "source": false
+                "file": "pdfs/tip.pdf",
+                "page": 1,
+                "left": -14,
+                "top": 842,
+                "zoom": 1.1867566823429974
               },
-              "icon": "lucide-file",
-              "title": "OSINT"
+              "icon": "lucide-file-text",
+              "title": "tip"
             }
           }
         ],
@@ -192,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering/OSINT.md",
+                "file": "pdfs/tip.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "OSINT 的反向連結"
+              "title": "tip 的反向連結"
             }
           },
           {
@@ -270,6 +272,13 @@
   },
   "active": "742cd8364ab64680",
   "lastOpenFiles": [
+    "general/reporting/測試報告內容.md",
+    "pdfs/tip.pdf",
+    "general/滲透測試目的.md",
+    "general/滲透測試流程.md",
+    "general/滲透測試範圍.md",
+    "general/滲透測試類型.md",
+    "Information Gathering/OSINT.md",
     "Information Gathering/DNS Zone Transfer.md",
     "Information Gathering/DNS Lookup.md",
     "Information Gathering/ASN.md",
@@ -296,16 +305,9 @@
     "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
     "confidentiality/cryptography/現代密碼學.md",
-    "confidentiality/cryptography/密碼學目的與核心概念.md",
-    "confidentiality/cryptography/密碼學分類.md",
-    "confidentiality/cryptography/串流加密.md",
-    "tips/零時差攻擊.md",
-    "tips/Windows重要事件識別碼.md",
-    "tips/TCP連線狀態一覽.md",
     "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
     "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
     "vulnerbility/exploit/windows based",
-    "vulnerbility/exploit",
     "總整理.canvas",
     "未命名.canvas",
     "img/Pasted image 20250411143448.png",
