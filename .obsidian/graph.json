@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:general  ",
@@ -19,13 +19,6 @@
       "color": {
         "a": 1,
         "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:vulnerbility  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
       }
     },
     {
@@ -55,6 +48,27 @@
         "a": 1,
         "rgb": 3904022
       }
+    },
+    {
+      "query": "path:\"vulnerbility/exploit/windows based\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16736664
+      }
+    },
+    {
+      "query": "path:vulnerbility/exploit  ",
+      "color": {
+        "a": 1,
+        "rgb": 19538
+      }
+    },
+    {
+      "query": "path:vulnerbility  ",
+      "color": {
+        "a": 1,
+        "rgb": 65356
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.508761885579262,
-  "close": true
+  "scale": 0.7132754626224481,
+  "close": false
 }

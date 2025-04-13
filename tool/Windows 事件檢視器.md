@@ -1,0 +1,1 @@
+![[08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf#page=55|08_Penetration Testing Practice_Windows-based弱點利用_v1.0, p.55]]
