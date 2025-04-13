@@ -54,9 +54,9 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
-                "page": 84,
+                "page": 37,
                 "left": -22,
-                "top": 180,
+                "top": 91,
                 "zoom": 0.7359375
               },
               "icon": "lucide-file-text",
@@ -258,9 +258,10 @@
   },
   "active": "210781c14a4a9543",
   "lastOpenFiles": [
+    "tips/Windows重要事件識別碼.md",
+    "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "confidentiality/cryptography/現代密碼學.md",
     "tool/scan/Nmap.md",
-    "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "pdfs/tip.pdf",
     "general/reporting/測試報告內容.md",
     "general/滲透測試目的.md",
@@ -288,7 +289,6 @@
     "tool/DNS/nslookup.md",
     "tool/DNS/dnswalk.md",
     "tool/scan/常見弱點掃描工具.md",
-    "tool/Google Hacking.md",
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
     "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
     "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
