@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-                "page": 41,
+                "page": 44,
                 "left": -19,
-                "top": 178,
+                "top": 221,
                 "zoom": 0.80859375
               },
               "icon": "lucide-file-text",
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vulnerbility/exploit/windows based/Powershell Exploit.md",
+                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Powershell Exploit 的對外連結"
+              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0 的對外連結"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vulnerbility/exploit/windows based/Powershell Exploit.md",
+                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Powershell Exploit 的大綱"
+              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0 的大綱"
             }
           },
           {
@@ -242,10 +242,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17695cf9bad51982",
+  "active": "0508517e6e4196da",
   "lastOpenFiles": [
-    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "vulnerbility/exploit/windows based/Powershell Exploit.md",
+    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "vulnerbility/exploit/windows based/權限提升技術（Privilege Escalation）.md",
     "vulnerbility/exploit/windows based/Hacking Windows.md",
     "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
