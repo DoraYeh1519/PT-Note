@@ -11,7 +11,6 @@
 - DES、Blowfish、CAST、Twofish 等
 
 ### 標準Feistel區塊加密特性
- 
  - 區段大小(block size)
 	 - 增大區段可以提升安全性，但是加解密會變慢
  - 金鑰長度(key size)
