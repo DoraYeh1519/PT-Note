@@ -14,33 +14,28 @@ Nmap全名是**Network Mapper**，是由Gordon Lyon (aka his pseudonym: Fyodor V
 
 若要在windows下使用時，可利用圖形介面的Zenmap
 
-## Usage
+## Nmap Usage
 
 - [[ASN]] Scan
 ```
 nmap --script asn-query IP
 ```
-
 - [[掃描技術#^30b0c4|TCP 全連接掃描]] ^229480
 ```
 nmap –sT IP
 ```
-
 - [[掃描技術#^30b0c4|TCP 半連接掃描]] ^e6b92e
 ```
 nmap –sS IP
 ```
-
 - [[掃描技術#^30b0c4|UDP掃描]] ^211e4f
 ```
 nmap –sU IP
 ```
-
 - [[掃描技術#^e846d5|Port及對應服務掃描]] ^d26436
 ```
 nmap -sV IP
 ```
-
 - [[掃描技術#^07057f|作業系統掃描]] ^8a2dd1
 ```
 nmap -O IP
