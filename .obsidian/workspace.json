@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-                "page": 15,
+                "page": 8,
                 "left": -21,
-                "top": 7,
+                "top": 419,
                 "zoom": 0.7054687500000001
               },
               "icon": "lucide-file-text",
@@ -35,12 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vulnerbility/exploit/windows based/Windows 系統資訊與帳號列舉.md",
+                "file": "vulnerbility/exploit/windows based/Windows 網域與服務列舉.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows 系統資訊與帳號列舉"
+              "title": "Windows 網域與服務列舉"
+            }
+          },
+          {
+            "id": "1aa066725c8d0514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vulnerbility/exploit/windows based/The Security Account Manager (SAM) Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Security Account Manager (SAM) Files"
             }
           },
           {
@@ -49,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows 安全性與防護繞過.md",
+                "file": "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
                 "mode": "source",
                 "source": false
               },
@@ -58,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows 安全性與防護繞過.md",
+                "file": "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -186,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows 安全性與防護繞過.md",
+                "file": "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,9 +242,12 @@
   },
   "active": "fe0856465409a64c",
   "lastOpenFiles": [
-    "Windows 安全性與防護繞過.md",
-    "vulnerbility/exploit/windows based/Windows 系統資訊與帳號列舉.md",
     "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+    "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
+    "vulnerbility/exploit/windows based/Windows 網域與服務列舉.md",
+    "vulnerbility/exploit/windows based/Windows 系統資訊與帳號列舉.md",
+    "vulnerbility/exploit/windows based/The Security Account Manager (SAM) Files.md",
+    "SAM file.md",
     "vulnerbility/exploit/windows based",
     "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
     "tool/Metasploit Framework (MSF).md",
@@ -256,13 +273,9 @@
     "tips/Feistel Network.md",
     "confidentiality/cryptography/古典密碼學.md",
     "confidentiality/cryptography/密碼學分類.md",
-    "confidentiality/cryptography/密碼學 Terminology.md",
-    "vulnerbility/弱點相關標準.md",
     "vulnerbility/discovery",
     "confidentiality/cryptography",
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
-    "tool/Hydra.md",
-    "tool/John The Ripper.md",
     "confidentiality/password",
     "總整理.canvas",
     "未命名.canvas",
