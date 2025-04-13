@@ -11,14 +11,16 @@
             "id": "20facb005419ba54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
-                "mode": "source",
-                "source": false
+                "file": "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
+                "page": 67,
+                "left": -9,
+                "top": 240,
+                "zoom": 1.6859375
               },
-              "icon": "lucide-file",
-              "title": "Windows 安全性與防護繞過"
+              "icon": "lucide-file-text",
+              "title": "04_Penetration Testing Practice_自動化弱點發現技術_v1.0"
             }
           }
         ]
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
+                "file": "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Windows 安全性與防護繞過 的反向連結"
+              "title": "04_Penetration Testing Practice_自動化弱點發現技術_v1.0 的反向連結"
             }
           },
           {
@@ -156,32 +158,13 @@
               "icon": "lucide-list",
               "title": "大綱"
             }
-          },
-          {
-            "id": "e53703223a9c1563",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "2d6506472d7cbb5f",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,18 +182,22 @@
   },
   "active": "20facb005419ba54",
   "lastOpenFiles": [
+    "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
+    "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
+    "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
+    "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
+    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+    "vulnerbility/exploit/windows based/Windows 登錄檔與檔案分析.md",
+    "vulnerbility/exploit/windows based/Windows 網域與服務列舉.md",
+    "vulnerbility/exploit/windows based/Windows 防禦繞過技術.md",
+    "vulnerbility/exploit/windows based/權限提升技術（Privilege Escalation）.md",
+    "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
     "vulnerbility/exploit/windows based/The Security Account Manager (SAM) Files.md",
     "vulnerbility/exploit/windows based/Powershell Exploit.md",
     "vulnerbility/exploit/windows based/Windows 系統資訊與帳號列舉.md",
-    "vulnerbility/exploit/windows based/Windows 登錄檔與檔案分析.md",
-    "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
     "tool/scan/常見弱點掃描工具.md",
-    "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
     "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
-    "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
     "general/滲透測試目的.md",
-    "vulnerbility/exploit/windows based/防禦繞過技術.md",
-    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "tool/TCPView.md",
     "tips/common TCP ports.md",
     "tips/TCP連線狀態一覽.md",
@@ -218,9 +205,7 @@
     "tool/Windows 事件檢視器.md",
     "tips/Windows重要事件識別碼.md",
     "tool/常見 PowerShell 攻擊模組與框架.md",
-    "vulnerbility/exploit/windows based/權限提升技術（Privilege Escalation）.md",
     "vulnerbility/exploit/windows based/Hacking Windows.md",
-    "vulnerbility/exploit/windows based/網域與服務列舉.md",
     "vulnerbility/exploit/windows based/Registry File.md",
     "SAM file.md",
     "vulnerbility/exploit/windows based",
@@ -231,9 +216,7 @@
     "vulnerbility/exploit/Buffer Overflow.md",
     "vulnerbility/exploit",
     "vulnerbility/資安弱點.md",
-    "Information Gathering/Network Information/掃描技術.md",
     "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
-    "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
     "vulnerbility/discovery",
     "總整理.canvas",
     "未命名.canvas",
