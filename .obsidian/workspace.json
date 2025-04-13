@@ -163,13 +163,13 @@
             }
           },
           {
-            "id": "4f0d64923e80a818",
+            "id": "2d6506472d7cbb5f",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
             }
           }
         ],
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534.5
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +194,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4f0d64923e80a818",
+  "active": "2d6506472d7cbb5f",
   "lastOpenFiles": [
     "vulnerbility/exploit/windows based/防禦繞過技術.md",
     "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
