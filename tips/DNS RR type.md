@@ -11,3 +11,4 @@
 #### PTR : pointer
 - IP 對應的 domain name  
 #### TXT : 任意可讀的文字
+
