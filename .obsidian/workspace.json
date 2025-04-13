@@ -70,17 +70,33 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
-                "page": 1,
+                "page": 22,
                 "left": -22,
-                "top": 75,
+                "top": 147,
                 "zoom": 0.7359375
               },
               "icon": "lucide-file-text",
               "title": "05_Penetration Testing Practice_系統通行碼_v1.0"
             }
+          },
+          {
+            "id": "b50feb622f0ec015",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+                "page": 30,
+                "left": -20,
+                "top": 347,
+                "zoom": 0.7359375
+              },
+              "icon": "lucide-file-text",
+              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "eeb29e131586bdf5",
@@ -224,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
+                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +250,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "05_Penetration Testing Practice_系統通行碼_v1.0 的反向連結"
+              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0 的反向連結"
             }
           },
           {
@@ -300,8 +316,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1592860c737a7482",
+  "active": "b50feb622f0ec015",
   "lastOpenFiles": [
+    "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
     "tool/常見 Hash 演算法對照表.md",
     "tool/常見 PowerShell 攻擊模組與框架.md",
     "confidentiality/cryptography/串流加密.md",
@@ -332,8 +349,6 @@
     "tool/TCPView.md",
     "tool/OSINT Tool.md",
     "().md",
-    "tool/Metadata Tool.md",
-    "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
     "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
     "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
     "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
