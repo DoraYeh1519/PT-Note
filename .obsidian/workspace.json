@@ -16,7 +16,7 @@
                 "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
                 "page": 12,
                 "left": -22,
-                "top": 24,
+                "top": 237,
                 "zoom": 0.70546875
               },
               "icon": "lucide-file-text",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vulnerbility/exploit/windows based/Windows 系統資訊與帳號列舉.md",
+                "file": "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows 系統資訊與帳號列舉"
+              "title": "Windows 安全性與防護繞過"
             }
           },
           {
@@ -257,10 +257,10 @@
   "active": "17d99ca10e74f12b",
   "lastOpenFiles": [
     "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
-    "vulnerbility/exploit/windows based/Registry File.md",
-    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "vulnerbility/exploit/windows based/Windows 系統資訊與帳號列舉.md",
+    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "vulnerbility/exploit/windows based/Windows 網域與服務列舉.md",
+    "vulnerbility/exploit/windows based/Registry File.md",
     "vulnerbility/exploit/windows based/The Security Account Manager (SAM) Files.md",
     "SAM file.md",
     "vulnerbility/exploit/windows based",
