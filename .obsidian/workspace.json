@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
-                "page": 29,
+                "page": 33,
                 "left": -262,
-                "top": 280,
+                "top": 437,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
@@ -27,14 +27,16 @@
             "id": "80def4b30e3916d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "vulnerbility/弱點相關標準.md",
-                "mode": "source",
-                "source": false
+                "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
+                "page": 85,
+                "left": -10,
+                "top": 169,
+                "zoom": 1.51171875
               },
-              "icon": "lucide-file",
-              "title": "弱點相關標準"
+              "icon": "lucide-file-text",
+              "title": "06_Penetration Testing Practice_密碼學與密碼分析_v1.0"
             }
           },
           {
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vulnerbility/弱點相關標準.md",
+                "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "弱點相關標準 的反向連結"
+              "title": "06_Penetration Testing Practice_密碼學與密碼分析_v1.0 的反向連結"
             }
           },
           {
@@ -213,8 +215,15 @@
   },
   "active": "80def4b30e3916d4",
   "lastOpenFiles": [
-    "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
+    "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
+    "confidentiality/password/Token認證.md",
+    "confidentiality/password/傳統通行碼認證.md",
+    "confidentiality/password/通行碼破解.md",
+    "confidentiality/password/使用者認證.md",
+    "confidentiality/password/系統通行碼管理與驗證流程.md",
+    "confidentiality/password/生物特徵認證.md",
     "vulnerbility/弱點相關標準.md",
+    "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
     "tips/DNS RR type.md",
     "Information Gathering/DNS Zone Transfer.md",
     "vulnerbility/弱點運作／利用.md",
@@ -222,7 +231,6 @@
     "vulnerbility/資安弱點.md",
     "tips/common TCP ports.md",
     "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-    "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
     "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "tool/常見 Hash 演算法對照表.md",
     "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
@@ -240,12 +248,6 @@
     "general/滲透測試目的.md",
     "tool/TCPView.md",
     "tips/TCP連線狀態一覽.md",
-    "tool/Process Explorer.md",
-    "tool/Windows 事件檢視器.md",
-    "tips/Windows重要事件識別碼.md",
-    "tool/常見 PowerShell 攻擊模組與框架.md",
-    "vulnerbility/exploit/windows based/Hacking Windows.md",
-    "vulnerbility/exploit/windows based/Registry File.md",
     "vulnerbility/exploit/windows based",
     "vulnerbility/exploit",
     "總整理.canvas",
