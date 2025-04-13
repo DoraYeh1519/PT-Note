@@ -4,6 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "53b175d4da2905ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61eecbebc067f9ac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
+                "page": 1,
+                "left": -22,
+                "top": 78,
+                "zoom": 0.7359375
+              },
+              "icon": "lucide-file-text",
+              "title": "06_Penetration Testing Practice_密碼學與密碼分析_v1.0"
+            }
+          }
+        ]
+      },
+      {
         "id": "eeb29e131586bdf5",
         "type": "tabs",
         "children": [
@@ -27,32 +49,14 @@
             "id": "80def4b30e3916d4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
-                "page": 85,
-                "left": -10,
-                "top": 169,
-                "zoom": 1.51171875
+                "file": "confidentiality/cryptography/古典密碼學.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "06_Penetration Testing Practice_密碼學與密碼分析_v1.0"
-            }
-          },
-          {
-            "id": "3219a4376f4e0efd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
-                "page": 13,
-                "left": -10,
-                "top": 85,
-                "zoom": 1.51171875
-              },
-              "icon": "lucide-file-text",
-              "title": "04_Penetration Testing Practice_自動化弱點發現技術_v1.0"
+              "icon": "lucide-file",
+              "title": "古典密碼學"
             }
           }
         ],
@@ -213,8 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80def4b30e3916d4",
+  "active": "61eecbebc067f9ac",
   "lastOpenFiles": [
+    "confidentiality/cryptography/古典密碼學.md",
+    "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
     "confidentiality/password/Token認證.md",
     "confidentiality/password/傳統通行碼認證.md",
@@ -231,7 +237,6 @@
     "vulnerbility/資安弱點.md",
     "tips/common TCP ports.md",
     "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-    "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "tool/常見 Hash 演算法對照表.md",
     "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
     "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
