@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-                "page": 39,
+                "page": 41,
                 "left": -19,
-                "top": 430,
+                "top": 178,
                 "zoom": 0.80859375
               },
               "icon": "lucide-file-text",
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+                "file": "vulnerbility/exploit/windows based/Powershell Exploit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0 的對外連結"
+              "title": "Powershell Exploit 的對外連結"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+                "file": "vulnerbility/exploit/windows based/Powershell Exploit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0 的大綱"
+              "title": "Powershell Exploit 的大綱"
             }
           },
           {
@@ -242,11 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0508517e6e4196da",
+  "active": "17695cf9bad51982",
   "lastOpenFiles": [
+    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "vulnerbility/exploit/windows based/Powershell Exploit.md",
     "vulnerbility/exploit/windows based/權限提升技術（Privilege Escalation）.md",
-    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "vulnerbility/exploit/windows based/Hacking Windows.md",
     "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
     "防禦繞過技術.md",
@@ -275,7 +275,6 @@
     "confidentiality/cryptography/非對稱式加密.md",
     "06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdfpage=70.md",
     "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
-    "confidentiality/cryptography/對稱式加密.md",
     "vulnerbility/discovery",
     "confidentiality/cryptography",
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
