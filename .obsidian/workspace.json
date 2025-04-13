@@ -46,9 +46,9 @@
               "type": "pdf",
               "state": {
                 "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-                "page": 57,
+                "page": 61,
                 "left": -22,
-                "top": 374,
+                "top": 467,
                 "zoom": 0.7359375
               },
               "icon": "lucide-file-text",
@@ -89,9 +89,23 @@
               "icon": "lucide-file",
               "title": "Windows重要事件識別碼"
             }
+          },
+          {
+            "id": "210781c14a4a9543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tips/TCP連線狀態一覽.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP連線狀態一覽"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tips/Windows重要事件識別碼.md",
+                "file": "tips/TCP連線狀態一覽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Windows重要事件識別碼 的反向連結"
+              "title": "TCP連線狀態一覽 的反向連結"
             }
           },
           {
@@ -248,11 +262,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86825c507e1c0913",
+  "active": "210781c14a4a9543",
   "lastOpenFiles": [
     "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-    "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "tips/Windows重要事件識別碼.md",
+    "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
     "vulnerbility/弱點運作／利用.md",
     "vulnerbility/弱點相關標準.md",
     "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
