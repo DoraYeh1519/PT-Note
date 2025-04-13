@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vulnerbility/exploit/windows based/Windows 網域與服務列舉.md",
+                "file": "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Windows 網域與服務列舉 的對外連結"
+              "title": "Windows 安全性與防護繞過 的對外連結"
             }
           },
           {
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vulnerbility/exploit/windows based/Windows 網域與服務列舉.md",
+                "file": "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Windows 網域與服務列舉 的大綱"
+              "title": "Windows 安全性與防護繞過 的大綱"
             }
           },
           {
@@ -254,12 +254,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17d99ca10e74f12b",
+  "active": "fe0856465409a64c",
   "lastOpenFiles": [
+    "vulnerbility/exploit/windows based/Windows 網域與服務列舉.md",
     "vulnerbility/exploit/windows based/Windows 安全性與防護繞過.md",
     "vulnerbility/exploit/windows based/Windows 系統資訊與帳號列舉.md",
     "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-    "vulnerbility/exploit/windows based/Windows 網域與服務列舉.md",
     "vulnerbility/exploit/windows based/Registry File.md",
     "vulnerbility/exploit/windows based/The Security Account Manager (SAM) Files.md",
     "SAM file.md",
