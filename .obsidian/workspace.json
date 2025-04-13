@@ -78,25 +78,9 @@
               "icon": "lucide-file-text",
               "title": "05_Penetration Testing Practice_系統通行碼_v1.0"
             }
-          },
-          {
-            "id": "b50feb622f0ec015",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
-                "page": 30,
-                "left": -20,
-                "top": 347,
-                "zoom": 0.7359375
-              },
-              "icon": "lucide-file-text",
-              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "eeb29e131586bdf5",
@@ -240,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
+                "file": "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +234,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "08_Penetration Testing Practice_Windows-based弱點利用_v1.0 的反向連結"
+              "title": "05_Penetration Testing Practice_系統通行碼_v1.0 的反向連結"
             }
           },
           {
@@ -316,8 +300,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b50feb622f0ec015",
+  "active": "1592860c737a7482",
   "lastOpenFiles": [
+    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "pdfs/05_Penetration Testing Practice_系統通行碼_v1.0.pdf",
     "tool/常見 Hash 演算法對照表.md",
     "tool/常見 PowerShell 攻擊模組與框架.md",
@@ -344,7 +329,6 @@
     "vulnerbility/discovery/自動化弱點掃描.md",
     "Information Gathering/Network Information/OS Fingerprint.md",
     "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
-    "pdfs/08_Penetration Testing Practice_Windows-based弱點利用_v1.0.pdf",
     "tool/Process Explorer.md",
     "tool/TCPView.md",
     "tool/OSINT Tool.md",
