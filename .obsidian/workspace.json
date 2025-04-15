@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a38713193e358112",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
-                "page": 42,
-                "left": -22,
-                "top": 5,
-                "zoom": 0.7359375
-              },
-              "icon": "lucide-file-text",
-              "title": "07_Penetration Testing Practice_弱點利用平台_v1.0"
-            }
-          },
-          {
-            "id": "210781c14a4a9543",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/06_Penetration Testing Practice_密碼學與密碼分析_v1.0.pdf",
-                "page": 1,
-                "left": -22,
-                "top": 540,
-                "zoom": 0.7359375
-              },
-              "icon": "lucide-file-text",
-              "title": "06_Penetration Testing Practice_密碼學與密碼分析_v1.0"
-            }
-          },
-          {
             "id": "f97d4d5eb1851be6",
             "type": "leaf",
             "state": {
@@ -70,9 +38,25 @@
               "icon": "lucide-file-text",
               "title": "02_Penetration Testing Practice_資訊蒐集技巧_v1.0"
             }
+          },
+          {
+            "id": "c385780dfab6b00f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
+                "page": 49,
+                "left": -20,
+                "top": 270,
+                "zoom": 0.7359375
+              },
+              "icon": "lucide-file-text",
+              "title": "01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "eeb29e131586bdf5",
@@ -119,9 +103,23 @@
               "icon": "lucide-file",
               "title": "常見 PowerShell 攻擊模組與框架"
             }
+          },
+          {
+            "id": "bf110c8544f09468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general/滲透測試流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "滲透測試流程"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
+                "file": "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "02_Penetration Testing Practice_資訊蒐集技巧_v1.0 的反向連結"
+              "title": "01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0 的反向連結"
             }
           },
           {
@@ -278,8 +276,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "792cebf956931615",
+  "active": "c385780dfab6b00f",
   "lastOpenFiles": [
+    "general/滲透測試流程.md",
+    "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
+    "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
     "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
     "Information Gathering/DNS Lookup.md",
     "pdfs/04_Penetration Testing Practice_自動化弱點發現技術_v1.0.pdf",
@@ -296,7 +297,6 @@
     "pdfs/tip.pdf",
     "general/reporting/測試報告內容.md",
     "general/滲透測試目的.md",
-    "general/滲透測試流程.md",
     "general/滲透測試範圍.md",
     "general/滲透測試類型.md",
     "Information Gathering/OSINT.md",
@@ -312,8 +312,6 @@
     "tool/TCPView.md",
     "tool/OSINT Tool.md",
     "pdfs/07_Penetration Testing Practice_弱點利用平台_v1.0.pdf",
-    "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
-    "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
     "vulnerbility/exploit/windows based",
     "總整理.canvas",
     "未命名.canvas",
