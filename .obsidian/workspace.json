@@ -43,16 +43,14 @@
             "id": "c385780dfab6b00f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
-                "page": 49,
-                "left": -20,
-                "top": 270,
-                "zoom": 0.7359375
+                "file": "tips/common TCP ports.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0"
+              "icon": "lucide-file",
+              "title": "common TCP ports"
             }
           }
         ],
@@ -278,8 +276,8 @@
   },
   "active": "c385780dfab6b00f",
   "lastOpenFiles": [
-    "general/滲透測試流程.md",
     "pdfs/01_Penetration Testing Practice_資訊安全滲透測簡介_v1.0.pdf",
+    "general/滲透測試流程.md",
     "pdfs/02_Penetration Testing Practice_資訊蒐集技巧_v1.0.pdf",
     "pdfs/03_Penetration Testing Practice_網路資訊蒐集_v1.0.pdf",
     "Information Gathering/DNS Lookup.md",
